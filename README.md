@@ -28,7 +28,7 @@ This project has implemented all the crud operations in a simple way with H2 emb
 - Use [Postman](https://www.postman.com) to check app or use tests.
 
 ## Testing
-### URL : http://localhost:8080/api/v1/student-ms + 
+### URL : http://localhost:8080/api/v1/student-ms/students + 
 - ## POST METHOD
 - ### /add
 Add student with this in body: <br/>
